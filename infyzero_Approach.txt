@@ -1,0 +1,8 @@
+Approach:
+
+ Step 1: Joining ImprCr (Train & Test) ImprID (Click & Log) using Left-Outer Join
+ Step 2: Feature Selection
+ Step 3: Data Visualizations 
+ Step 4: Encoding Text Data 
+ Step 5: Data Imputation
+ Step 6: Data Modeling & Evaluation
